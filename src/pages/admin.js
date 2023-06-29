@@ -48,7 +48,7 @@ function Admin() {
         </button>
         <button className="text-md px-4 py-2 bg-brown/60 border-2 urbanist border-brown hover:bg-brown text-gray-50 font-semibold rounded-lg mr-4 mb-8">
           <Link
-            href={"https://vercel.com/antoniogrosu/blog-41q6/analytics"}
+            href={"https://vercel.com/al3xia10/blog/analytics"}
             target="blank"
           >
             Analiza Website
